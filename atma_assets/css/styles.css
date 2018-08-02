@@ -622,14 +622,14 @@ a.btn:hover {
   position: absolute;
   left: 30px;
 }
-.contact-section .intro .visitor {
+.contact-section .intro p {
+  margin-bottom: 15px;
+}
+.contact-section .visitor {
   width: 120px;
   height: 120px;
   left: -50px;
   margin: auto;
-}
-.contact-section .intro p {
-  margin-bottom: 15px;
 }
 .contact-section .service-list {
   margin-left: 30px;
