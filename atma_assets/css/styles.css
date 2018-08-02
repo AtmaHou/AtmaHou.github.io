@@ -625,9 +625,8 @@ a.btn:hover {
 .contact-section .intro .visitor {
   width: 120px;
   height: 120px;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
+  left: -50px;
+  margin: auto;
 }
 .contact-section .intro p {
   margin-bottom: 15px;
